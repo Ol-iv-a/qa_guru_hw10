@@ -4,7 +4,6 @@ from selene.support.shared.jquery_style import s
 
 @allure.tag("web")
 @allure.severity(allure.severity_level.NORMAL)
-@allure.label("eroshenkoam/allure-qaguru")
 @allure.feature("Задачи и репозитории")
 @allure.story("Просмотр раздела 'Задачи'")
 @allure.link("https://github.com/")
